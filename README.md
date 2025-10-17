@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+🚀 Comenzando con Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto fue inicializado con Create React App.
 
-## Available Scripts
+📜 Scripts Disponibles
 
-In the project directory, you can run:
+En el directorio del proyecto, puedes ejecutar los siguientes comandos:
 
-### `npm start`
+npm start
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Ejecuta la aplicación en modo de desarrollo.
+Abre http://localhost:3000
+ para verla en tu navegador.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+La página se recargará automáticamente cuando realices cambios en el código.
+También podrás ver errores de lint en la consola.
 
-### `npm test`
+npm test
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Inicia el ejecutor de pruebas en modo interactivo.
+Consulta la sección sobre ejecución de pruebas para obtener más información.
 
-### `npm run build`
+npm run build
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Crea una versión optimizada para producción en la carpeta build.
+Compila correctamente React en modo producción y optimiza el build para obtener el mejor rendimiento.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+El código resultante estará minificado y los nombres de archivo incluirán hashes únicos.
+Tu aplicación estará lista para ser desplegada.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Consulta la sección sobre despliegue para más información.
 
-### `npm run eject`
+npm run eject
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+⚠️ Nota: Esta es una operación irreversible. ¡Una vez que ejecutes eject, no podrás volver atrás!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Si no estás satisfecho con la configuración o las herramientas incluidas, puedes ejectar en cualquier momento.
+Este comando eliminará la dependencia de construcción única del proyecto.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+En su lugar, copiará todos los archivos de configuración y dependencias (como webpack, Babel, ESLint, etc.) directamente en tu proyecto para que tengas control total sobre ellos.
+Todos los comandos, excepto eject, seguirán funcionando, pero apuntarán a los scripts copiados para que puedas modificarlos libremente.
+A partir de ese punto, serás totalmente responsable de la configuración.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+No estás obligado a usar eject.
+El conjunto de funciones preconfiguradas es adecuado para proyectos pequeños y medianos, y no deberías sentirte obligado a usar esta opción.
+Sin embargo, entendemos que esta herramienta no sería realmente útil si no pudieras personalizarla cuando lo necesites.
 
-## Learn More
+📚 Aprende Más
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Puedes obtener más información en la documentación de Create React App
+.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Para aprender React, consulta la documentación oficial de React
+.
 
-### Code Splitting
+🔧 Temas adicionales
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+División de código (Code Splitting)
+Esta sección se ha movido aquí:
+https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
+Análisis del tamaño del paquete (Bundle Size)
+https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Creación de una Aplicación Web Progresiva (PWA)
+https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Making a Progressive Web App
+Configuración Avanzada
+https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Despliegue (Deployment)
+https://facebook.github.io/create-react-app/docs/deployment
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Error: npm run build no logra minificar
+https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
